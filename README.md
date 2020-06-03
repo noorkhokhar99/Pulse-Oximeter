@@ -24,3 +24,6 @@ The sensor is integrated pulse oximetry and heart-rate monitor sensor solution. 
 interface MAX30100 Pulse Oximeter with NodeMCU ESP8266
 
 <img src="https://github.com/noorkhokhar99/Pulse-Oximeter/blob/master/MAX30100-NodeMCU-Connection-768x269.jpg">
+
+
+<img src="https://github.com/noorkhokhar99/Pulse-Oximeter/blob/master/result.jpeg">
